@@ -1,0 +1,16 @@
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\bin\Debug\IDWInterpolation.exe.config
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\bin\Debug\IDWInterpolation.exe
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\bin\Debug\IDWInterpolation.pdb
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\obj\Debug\IDWInterpolation.csprojResolveAssemblyReference.cache
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\obj\Debug\MainWindow.g.cs
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\obj\Debug\App.g.cs
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\obj\Debug\IDWInterpolation_MarkupCompile.cache
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\obj\Debug\IDWInterpolation_MarkupCompile.lref
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\obj\Debug\MainWindow.baml
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\obj\Debug\IDWInterpolation.g.resources
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\obj\Debug\IDWInterpolation.Properties.Resources.resources
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\obj\Debug\IDWInterpolation.csproj.GenerateResource.Cache
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\obj\Debug\IDWInterpolation.exe
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\obj\Debug\IDWInterpolation.pdb
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\obj\Debug\HyperParams.g.cs
+C:\Users\D1996e\Documents\Visual Studio 2017\Projects\IDWInterpolation\IDWInterpolation\obj\Debug\HyperParams.baml
